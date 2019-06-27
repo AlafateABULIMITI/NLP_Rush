@@ -10,7 +10,7 @@
  - [自然语言学习初级](#nlp_basic)
  - [数学和机器学习知识补充](#math_ml_median)
  - [自然语言处理中级](#nlp_median)
- 
+
 - [自然语言处理专项领域学习](#special_learning)
 
 ##<h2 id="preparation">前言</h2>
@@ -63,16 +63,16 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 
 ###<h3 id="nlp_basic">自然语言处理学习初级</h3>
    下面这些课程可以较好的帮助大家认识自然语言处理，了解基本的自然语言处理知识，是很好的入门课程。
-   
+
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-[自然语言处理初级1](https://www.youtube.com/watch?v=nfoudtpBV68&list=PLiNErZ5Bus8qNxNsFZFkh-9_CzZRW9iH9)| Stanford |[Speech and Language Processing](https://www.amazon.de/o/ASIN/0131873210/) | [链接](https://suclass.stanford.edu/courses/Engineering/CS224N/Fall2015/about)
+[自然语言处理初级1](https://www.youtube.com/watch?v=nfoudtpBV68&list=PLiNErZ5Bus8qNxNsFZFkh-9_CzZRW9iH9)| Stanford |[Speech and Language Processing](https://www.amazon.de/o/ASIN/0131873210/) [ [PDF v3](https://web.stanford.edu/~jurafsky/slp3/) ] | [链接](https://suclass.stanford.edu/courses/Engineering/CS224N/Fall2015/about)
 [自然语言处理初级2](http://www.cs.columbia.edu/~cs4705/)| Columbia | 暂无 |  [链接](http://www.cs.columbia.edu/~cs4705/)
 
 
 ###<h3 id="math_ml_median">数学和机器学习知识补充</h3>
   考虑当前很多的自然语言处理技术等涉及较多的机器学习方法，所以我们要求至少得完成一门中等水准的机器学习课程，此处推荐NTU的机器学习课程，**NTU的“机器学习基石”和“机器学习技法”需同时完成。**，如果对其他机器学习感兴趣的话，可以取[Machine Learning](https://github.com/JustFollowUs/Machine-Learning)专栏上去寻找。而基本的凸优化能够帮助我们更好的了解机器学习知识，也是很多机器学习算法推导的一个基本工具。
-  
+
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [凸优化1](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| Stanford | [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | [链接](http://stanford.edu/class/ee364a/index.html) 
@@ -81,7 +81,7 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 
 ###<h3 id="nlp_median">自然语言处理学习中级</h3>
    下面是自然语言处理的一些较难的课程，但对于后续的科研或者学习有着极大的帮助，希望对大家有帮助。
- 
+
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 机器学习用于自然语言处理 | Columbia | [Speech and Language Processing (2nd Edition)](http://www.cs.colorado.edu/~martin/slp.html) | [链接](http://www.cs.columbia.edu/~mcollins/courses/6998-2012/index.html)
