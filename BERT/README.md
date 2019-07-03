@@ -13,4 +13,13 @@ Github of Google-Research : <https://github.com/google-research/bertz>
 You are welcome to add your comments and ideas for learning this model 😜
 
 Time stamp:
-###### Wed Jun 26 11:39:35 CEST 2019
+###### Wed Jun 26 CEST 2019
+
+
+I added 2 relative papers :
+
+1. [ELMO](https://github.com/AlafateABULIMITI/NLP_Rush/blob/master/BERT/1802.05365.pdf)
+2. [Universal Language Model](https://github.com/AlafateABULIMITI/NLP_Rush/blob/master/BERT/1801.06146.pdf)
+
+Time stamp:
+###### Wed Jul 3 CEST 2019
